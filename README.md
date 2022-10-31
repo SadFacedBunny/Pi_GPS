@@ -1,7 +1,6 @@
 # Pi_GPS
 This is a project i completed for school. I was able to use a raspberry pi 3b and a gps adapter with the Blox NEO-6M chip, to log my gps data. With additional help from python and the library plotly, i was able to then map my coordinates that i previously logged. 
 
-
 I originally wanted to use this project to analyse my MPG during my daily drive but, i am not that far yet. This is the minimal form of the project can only plot the coordinates onto and interactive map 
 
 useful tutorial:
@@ -37,3 +36,5 @@ sdata[   0     1        2    3     4     5 6  7  8    9   9  10  11 12  13]
      (empty field) DGPS station ID number
      *47          the checksum data, always begins with *
 ```
+# Example Maps 
+
